@@ -18,6 +18,10 @@ Soy Licenciada en Administración de Empresas con experiencia en análisis finan
 - **ERP & Negocio:** Odoo ERP, Microsoft Office, Bizagi
 - **Análisis:** KPIs, segmentación, limpieza de datos, reportes automatizados, data storytelling
 
+## Proyectos destacados
+
+- Dashboard de Cartera y Morosidad: proyecto privado desarrollado con Excel, Power Query y Power Pivot para análisis de cartera vencida, antigüedad de saldos, DSO, recuperación mensual y riesgo por cliente/vendedor. Versión demo en desarrollo con datos ficticios.
+
 ## Proyectos en desarrollo
 
 - Dashboard de cartera y morosidad
